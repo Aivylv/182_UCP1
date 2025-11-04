@@ -1,5 +1,5 @@
 1. GET
-   <img width="1914" height="1008" alt="image" src="https://github.com/user-attachments/assets/49b90b12-c274-4125-a904-eb248ed87822" />
+   <img width="1914" height="1008" alt="image" src="https://github.com/user-attachments/assets/a9591824-665d-4dd5-88a4-3fc0804f56dc" />
 
 
 2. POST
